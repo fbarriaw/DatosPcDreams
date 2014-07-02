@@ -1,0 +1,10 @@
+c:\users\frbw\documents\visual studio 2010\Projects\DatosPcDreams\DatosPcDreams\bin\Debug\DatosPcDreams.exe
+c:\users\frbw\documents\visual studio 2010\Projects\DatosPcDreams\DatosPcDreams\bin\Debug\DatosPcDreams.pdb
+c:\users\frbw\documents\visual studio 2010\Projects\DatosPcDreams\DatosPcDreams\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\frbw\documents\visual studio 2010\Projects\DatosPcDreams\DatosPcDreams\obj\x86\Debug\DatosPcDreams.Form1.resources
+c:\users\frbw\documents\visual studio 2010\Projects\DatosPcDreams\DatosPcDreams\obj\x86\Debug\DatosPcDreams.Properties.Resources.resources
+c:\users\frbw\documents\visual studio 2010\Projects\DatosPcDreams\DatosPcDreams\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\frbw\documents\visual studio 2010\Projects\DatosPcDreams\DatosPcDreams\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\frbw\documents\visual studio 2010\Projects\DatosPcDreams\DatosPcDreams\obj\x86\Debug\DatosPcDreams.exe
+c:\users\frbw\documents\visual studio 2010\Projects\DatosPcDreams\DatosPcDreams\obj\x86\Debug\DatosPcDreams.pdb
+C:\Users\frbw\documents\visual studio 2010\Projects\DatosPcDreams\DatosPcDreams\obj\x86\Debug\DatosPcDreams.Form2.resources
